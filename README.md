@@ -1,68 +1,50 @@
 <div id="header" align="center">
-  <h1>
-    Рада приветствовать! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1><h3>Меня зовут <a href="https://github.com/eelizabeeth" target="_blank">Лиза</a>, и я Manual QA Engineer</h3>
+  <img src="https://media0.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=ecf05e47kw2mcq8s99bzxleeqvpl2tac6o8og33z3pv9jwg1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
+  <h1> Hi there! I'm <a href="https://github.com/eelizabeeth" target="_blank">Liza</a>
+<div id="badges">
+  <a href="mailto:egorovaelizavetwork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/eelizaveet">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </h1>
+</div>
 </div>
 
----
+### About Me :
 
-### Мои цели:
+- 🐞 I’m working as a QA Engineer
 
-- Работать вместе с дружной командой над интересными проектами
+- 🔥 I strive for continuous professional development and learning new information
 
-- Внести свой вклад в компанию и в качество разрабатываемого продукта
-
----
-
-### Тестовая документация:
-
-  <div>
-    <img src="icon/qase.svg" title="Qase.io" alt="Qase.io" width="45" height="45"/>&nbsp
-    <img src="icon/Yandex.Tracker.png" title="Yandex.tracker" alt="Yandex.tracker" width="40" height="40"/>&nbsp
-    <img src="icon/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-     <img src="icon/clickup.svg" title="Clickup" alt="Clickup" width="40" height="40"/>&nbsp
-    <img src="icon/Figma.svg" title="Figma" alt="Figma" width="35" height="37"/>&nbsp
-  </div>
+- ⌛ In my free time, I watch documentaries and listen to Podlodka, HeisenBug podcasts
 
 ---
 
-### Тестирование web-приложений:
+### Languages and Tools :
 
-  <div>
-    <img src="icon/devtools.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
-    <img src="icon/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-    <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp
-    <img src="icon/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp
-
-  </div>
-
----
-
-### Тестирование мобильных приложений:
-
-  <div>
-    <img src="icon/androidstudio.svg" title="Android studio" alt="Android studio" width="40" height="40"/>&nbsp
-    <img src="icon/browserstack.png" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp
-    <img src="icon/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp
-  </div>
-
----
-
-### Работа с данными:
-
-  <div>
-    <img src="icon/Postgresql.png" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp
-    <img src="icon/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp
-
-  </div>
+<div>
+  <img src="icon/qase.svg" title="Qase.io" alt="Qase.io" width="45" height="45"/>&nbsp;
+  <img src="icon/Yandex.Tracker.png" title="Yandex.tracker" alt="Yandex.tracker" width="40" height="40"/>&nbsp;
+  <img src="icon/notion.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="icon/clickup.svg" title="Clickup" alt="Clickup" width="40" height="40"/>&nbsp;
+  <img src="icon/Figma.svg" title="Figma" alt="Figma" width="35" height="37"/>&nbsp;
+  <img src="icon/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp;
+  <img src="icon/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp;
+  <img src="icon/devtools.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;    
+  <img src="icon/browserstack.png" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
+  <img src="icon/androidstudio.svg" title="Android studio" alt="Android studio" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+ <img src="icon/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ <img src="icon/Bash.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 ---
 
-### Работа с кодом:
-
-  <div>
-    <img src="icon/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-    <img src="icon/Bash.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-    <img src="icon/vscode.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
-  </div>
-
----
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?eelizabeeth=vn7n24fzkq&theme=apprentice)
