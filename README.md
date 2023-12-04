@@ -47,4 +47,5 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?eelizabeeth=vn7n24fzkq&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eelizabeeth&theme=apprentice)
+
