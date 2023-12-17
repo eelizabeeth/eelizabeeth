@@ -14,11 +14,11 @@
 
 ### About Me :
 
-- 🐞 I’m working as a QA Engineer
+- I’m working as a QA Engineer
 
-- 🔥 I strive for continuous professional development and learning new information
+- I strive for continuous professional development and learning new information
 
-- ⌛ In my free time, I watch documentaries and listen to Podlodka, HeisenBug podcasts
+- In my free time, I watch documentaries and listen to Podlodka, HeisenBug podcasts
 
 ---
 
