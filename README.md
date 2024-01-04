@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=ecf05e47kw2mcq8s99bzxleeqvpl2tac6o8og33z3pv9jwg1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
   <h1> Hi there! I'm <a href="https://github.com/eelizabeeth" target="_blank">Liza</a>
 <div id="badges">
   <a href="mailto:egorovaelizavetwork@gmail.com">
