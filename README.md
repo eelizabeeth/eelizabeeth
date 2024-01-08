@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1> Hi there! I'm <a href="https://github.com/eelizabeeth" target="_blank">Liza</a>
 <div id="badges">
-  <a href="mailto:egorovaelizavetwork@gmail.com">
+  <a href="mailto:egorovaeelizabeeth@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/eelizaveet">
